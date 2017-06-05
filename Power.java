@@ -18,6 +18,8 @@ else
 for(int i=0;i<p;i++)
 {
 res=res*num;
-}}
+}
+System.out.println(res);
+}
 }
 
