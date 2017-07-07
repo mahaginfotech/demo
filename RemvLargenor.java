@@ -5,7 +5,7 @@ import java.util.*;
  *
  * @author rt
  */
-public class RemvLargestnumber {
+public class RemvLargno {
 
     /**
      * @param args the command line arguments
